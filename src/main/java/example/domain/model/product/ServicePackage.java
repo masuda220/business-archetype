@@ -1,10 +1,10 @@
 package example.domain.model.product;
 
-import java.util.Set;
+import java.util.Map;
 
 /**
  * 組み合わせ販売
  */
 public class ServicePackage {
-    Set<ServiceItem> serviceItems;
+    Map<ServiceItem, Quantity> serviceItems;
 }
