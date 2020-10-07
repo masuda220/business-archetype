@@ -10,7 +10,7 @@ import example.domain.type.datetime.DueDate;
 import example.domain.type.money.Amount;
 
 /**
- * 契約
+ * *契約
  */
 public class Contract {
     Customer customer;
