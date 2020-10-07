@@ -6,7 +6,7 @@ import example.domain.model.fulfillment.Schedule;
 import example.domain.model.payment.PaymentHistory;
 
 /**
- * 契約の進捗
+ * 契約の履行の進捗
  */
 public class Progress {
     Contract contract;

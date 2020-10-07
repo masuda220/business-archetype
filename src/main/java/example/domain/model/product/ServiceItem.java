@@ -6,4 +6,5 @@ package example.domain.model.product;
 public class ServiceItem {
     ServiceIdentifier serviceIdentifier;
     ServiceType serviceType;
+    ServiceSpecification serviceSpecification;
 }
