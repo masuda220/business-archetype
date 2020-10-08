@@ -1,6 +1,6 @@
 package example.domain.model.contract.discount;
 
-import example.domain.model.product.ServiceItem;
+import example.domain.model.product.services.ServiceItem;
 import example.domain.type.money.Amount;
 import example.domain.type.money.Percent;
 
